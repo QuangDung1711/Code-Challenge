@@ -43,6 +43,10 @@ input {
   border: none;
 }
 
+input:disabled {
+  background-color: aquamarine;
+}
+
 img {
   width: 28px;
   height: 28px;
